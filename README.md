@@ -72,7 +72,7 @@
 
 ###
 
-<img src="1229-code.gif" alt="Snake animation" />
+<img align="center" src="1229-code.gif" alt="Snake animation" />
 
 ###
 </div>
