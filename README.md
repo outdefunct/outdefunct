@@ -72,7 +72,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Outdef/Outdef/output/snake.svg" alt="Snake animation" />
+<img src="1229-code.gif" alt="Snake animation" />
 
 ###
 </div>
